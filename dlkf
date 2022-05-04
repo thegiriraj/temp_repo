@@ -1,0 +1,54 @@
+[33mcommit 66b61580d77391d2ee0a188d7d8b9539aee5a38a[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: girirajtomar <giriraj.tomar@autorabit.com>
+Date:   Thu May 5 00:33:38 2022 +0530
+
+    first sf commit
+
+[33mcommit 711f31147431cfe2959b229bc56ab0466bb06222[m[33m ([m[1;31morigin/test2[m[33m, [m[1;31morigin/test1[m[33m)[m
+Author: Giriraj Tomar <45397761+girirajtomar@users.noreply.github.com>
+Date:   Sun May 1 21:53:30 2022 +0530
+
+    Create newfile
+
+[33mcommit b57ddbeaeeafee1829b28b5c94ddbf545635b2d4[m
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sun May 1 21:42:02 2022 +0530
+
+    originbranch first commit
+
+[33mcommit c80a58759e643dd43b35ad8d14fc0b396a35cea2[m
+Merge: 44728ed 6c59d83
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sat Apr 30 15:04:42 2022 +0530
+
+    Merge branch 'branch1'
+
+[33mcommit 44728ed1a940bf43183adbc39c05139d0a6ff15f[m
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sat Apr 30 14:45:55 2022 +0530
+
+    maste another commit
+
+[33mcommit 6c59d8332f175b09722336432bccb592322211f3[m
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sat Apr 30 14:45:20 2022 +0530
+
+    branch1 first commit
+
+[33mcommit 345febd13482ab4dce71ae8da953df5772f3d92a[m
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sat Apr 30 14:18:32 2022 +0530
+
+    featre1 completed
+
+[33mcommit 47779bf67d416d94bc65228be6e51e94fc37036b[m
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sat Apr 30 14:18:05 2022 +0530
+
+    featre1 50% completed
+
+[33mcommit 9fe2a2df0bf2637f6786d35ca3bffb8e422c4e5a[m
+Author: Giriraj Tomar <giriraj.tomar@autorabit.com>
+Date:   Sat Apr 30 14:16:25 2022 +0530
+
+    master file1 commit
